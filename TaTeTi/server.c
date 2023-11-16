@@ -9,7 +9,6 @@
 
 #define PORT 8080    // Ver si esta bien el 8080 o hay que cambiarlo
 #define MAXLINE 1024 // Preguntar que es esto
-int hayGanador();
 int main()
 {
 
